@@ -49,4 +49,5 @@ public class Prueba {
     public void setFechaNacimiento(Date fechaNacimiento) {
         this.fechaNacimiento = fechaNacimiento;
     }
+
 }
